@@ -1,0 +1,227 @@
+------------------ VER 1.3.2 - Released: Apr 10, 2015 ---------------
+Added: YITH Woocomerce Ajax Search
+Added: YITH Woocomerce Order Tracking
+Added: YITH Woocomerce Pdf Invoice
+Added: YITH Woocommerce Advanced Reviews
+Added: YITH WooCommerce Cart Message
+Added: Yith Woocomerce Stripe
+Added: Yith Woocomerce Authorize.net
+Added: Yith Woocomerce Review Reminder
+Removed: "woocommerce/checkout/form-checkout-classic.php" file
+Removed: "woocommerce/checkout/form-checkout-multistep.php" file
+
+UPDATED
+
+ChangeLog.txt
+style.css
+core/assets/css/panel.css
+core/assets/images/walter-message.png
+core/lib/vendors/tgm-plugin-activation/class-tgm-plugin-activation.php
+core/yit/Plugins.php
+css/responsive.css
+languages/default.po
+languages/yit.pot
+theme/assets/css/widgets.css
+theme/functions-theme.php
+theme/plugins.php
+theme/widgets/search_mini.php
+theme/woocommerce.php
+woocommerce/checkout/form-billing.php
+woocommerce/checkout/form-checkout.php
+woocommerce/checkout/form-login.php
+woocommerce/checkout/form-place-order.php
+woocommerce/checkout/form-shipping.php
+woocommerce/checkout/review-order.php
+woocommerce/style.css
+woocommerce/yith-woocommerce-ajax-search.php
+
+REMOVED
+
+woocommerce/checkout/form-checkout-classic.php
+woocommerce/checkout/form-checkout-multistep.php
+
+
+
+------------------ VER 1.3.1 - Released: Mar 19, 2015 ---------------
+Added: Support to WooCommerce 2.3.7
+Removed: "core/yit/Metabox.php"  file
+
+UPDATE
+
+ChangeLog.txt
+style.css
+core/yit/Metaboxes.php
+Purchase-Now.url
+purchase_now.html
+woocommerce/cart/cart-totals.php
+woocommerce/single-product/review.php
+
+REMOVED
+
+core/yit/Metabox.php
+
+------------------ VER 1.3.0 - Released: 02-20-2015 ---------------
+Added: Support to WooCommerce 2.3.4
+Added: Support to Wordpress 4.1.1
+
+Updated:
+ChangeLog.txt
+core/assets/js/types.js
+core/functions-core.php
+core/yit/CPT_Unlimited.php
+languages/default.po
+languages/yit.pot
+style.css
+theme/assets/js/unminified/woocommerce.js
+theme/assets/js/woocommerce.js
+theme/hooks.php
+theme/woocommerce.php
+woocommerce/cart/cart-shipping.php
+woocommerce/cart/cart-totals.php
+woocommerce/cart/cart.php
+woocommerce/checkout/form-checkout-classic.php
+woocommerce/checkout/form-checkout-multistep.php
+woocommerce/checkout/form-checkout.php
+woocommerce/checkout/review-order.php
+woocommerce/global/breadcrumb.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/product-thumbnails.php
+woocommerce/style.css
+
+
+Added:
+woocommerce_2.2.x/*.*
+theme/assets/js/woocommerce_2.3.js
+theme/assets/images/ajax-loader.gif
+theme/assets/images/ajax-loader@2x.gif
+
+Removed:
+woocommerce/checkout/form-pay.php
+woocommerce/checkout/form-payment.php
+
+------------------ VER 1.2.4 - Released: 02-02-2015 ---------------
+Added: Support to WooCommerce 2.2.11
+
+
+UPDATED
+ChangeLog.txt
+style.css
+languages/*.*
+
+
+------------------ VER 1.2.3 - Released: 12-11-2014 ---------------
+Added: Support to WooCommerce 2.2.8
+Fixed: Duplicate og tags with Seo plugin by Yoast activated
+Fixed: og:description tag missed
+
+UPDATED
+
+ChangeLog.txt
+Purchase-Now.url
+style.css
+core/functions-template.php
+core/templates/admin/panel/header.php
+core/templates/admin/panel/premium.php
+languages/*.*
+theme/templates/header/slogan.php
+woocommerce/checkout/form-login.php
+
+------------------ VER 1.2.2 - Released: 10-13-2014 ---------------
+Added: Support to WordPress 4.0
+Added: Support to WooCommerce 2.2.6
+Updated: screenshot.png image
+
+UPDATED:
+ChangeLog.txt
+screenshot.png
+style.css
+theme/woocommerce.php
+woocommerce/cart
+woocommerce/cart/cart-empty.php
+woocommerce/cart/cart-shipping.php
+woocommerce/cart/cart-totals.php
+woocommerce/cart/cart.php
+woocommerce/cart/mini-cart.php
+woocommerce/cart/shipping-calculator.php
+woocommerce/checkout
+woocommerce/checkout/cart-errors.php
+woocommerce/checkout/form-billing.php
+woocommerce/checkout/form-checkout-classic.php
+woocommerce/checkout/form-checkout-multistep.php
+woocommerce/checkout/form-checkout.php
+woocommerce/checkout/form-coupon.php
+woocommerce/checkout/form-login.php
+woocommerce/checkout/form-pay.php
+woocommerce/checkout/form-payment.php
+woocommerce/checkout/form-place-order.php
+woocommerce/checkout/form-shipping.php
+woocommerce/checkout/review-order.php
+woocommerce/checkout/thankyou.php
+woocommerce/content-product.php
+woocommerce/content-single-product.php
+woocommerce/global/breadcrumb.php
+woocommerce/global/page-meta.php
+woocommerce/loop/pagination.php
+woocommerce/loop/sale-flash.php
+woocommerce/product-compare.css
+woocommerce/single-product.php
+woocommerce/single-product/add-to-cart/grouped.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/nav-links.php
+woocommerce/single-product/price.php
+woocommerce/single-product/product-image-magnifier.php
+woocommerce/single-product/product-thumbnails-magnifier.php
+woocommerce/single-product/review.php
+woocommerce/single-product/tabs/info.php
+woocommerce/single-product/tabs/tabs.php
+woocommerce/style.css
+woocommerce/wishlist.css
+woocommerce_2.1.x/*.*
+
+------------------ VER 1.2.1 - Released: 03-25-2014 ---------------
+Added: Support to WooCommerce 2.1.5
+Fixed: Add to cart for grouped product
+Fixed: Catalog Settings
+Fixed: Lightbox Image Navigation
+
+Update:
+style.css
+theme/woocommerce.php
+woocommerce/single-product/add-to-cart/grouped.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/product-attributes.php
+woocommerce/single-product/product-image.php
+woocommerce/single-product/product-thumbnails.php
+
+------------------ VER 1.2.0 - Released: 02-27-2014 --------------
+Added: support to WooCommerce 2.1
+
+Updated:
+core/functions-core.php
+index.php
+style.css
+theme/assets/css/widgets.css
+theme/assets/js/unminified/woocommerce.js
+theme/assets/js/woocommerce.js
+theme/templates/header/slogan.php
+theme/woocommerce.php
+woocommerce/*.*
+woocommerce_2.0.x/*.*
+
+------------------ VER 1.1.0 ---------------
+Added: supporto to WP 3.8
+
+Updated:
+ChangeLog.txt
+style.css
+core/assets/css/metaboxes.css
+core/assets/css/panel.css
+core/assets/css/tinymce.css
+core/lib/yit/Type/Types/Selecticon.php
+core/yit/CPT_Unlimited.php
+core/yit/Services.php
+core/yit/Testimonial.php
+
+------------------ VER 1.0.0 ---------------
+Initial Release
+
